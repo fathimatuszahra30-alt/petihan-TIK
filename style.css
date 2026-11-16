@@ -1,20 +1,20 @@
 body {
-    background-color: #ffa992; /* Warna pink cerah */
-    font-familly: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah di baca */
-    color: #191970; /Warna teks utama (Biru gelap) */
+    background-color: #ffa992;
+    font-family: Arial, sans-serif;
+    color: #416347;
 }
 
 .kartu-profil {
-     width: 300px;
-     margin: 50px auto; /* 50px jarak atas/bawah, auto menengah kiri/kanan */
-     padding: 20px
-     background-color: white;
-     border-radius: 15px; /* membuat sudut menjadi melengkung */
-     box-shadow: 0 4px 8px rgba(0,0,0,0.1); Efek bayangan */
-     text-align: center; /* Menengahkan semua teks di dalam kartu */
+    widht: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,1);
+    text-align: center;
 }
 
 .kartu-profil img {
-     width: 150px;
-     border-radius: 50%; */ Trik membuat gambar persegi menjadi lingkaran sempurna */
+    widht: 150px;
+    border-radius: 20%;
 }
